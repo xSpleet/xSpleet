@@ -3,7 +3,7 @@
 
 👋 Hi, I'm Kiryl
 
-📖 I am currently a student at the TU Dresden. 3nd semester of Computer Science Bachelor
+📖 I am currently a student at the TU Dresden. 3rd semester of Computer Science Bachelor
 
 😣 I am in my Stress Phase, so not much time to work on my ideas and plans
 
