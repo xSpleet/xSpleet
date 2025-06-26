@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/csharp-original.svg" width="50" height="50"/>&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>&nbsp
   </div>
   
 ### IDEs
@@ -34,8 +34,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="50" height="50"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/visualstudio-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/rider-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width="50" height="50"/>
   </div>
   
 ### Other Stuff
