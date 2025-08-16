@@ -3,18 +3,17 @@
 
 👋 Hi, I'm Kiryl
 
-📖 I am currently a student at the TU Dresden. 3rd semester of Computer Science Bachelor
+📖 I am currently a student at the TU Dresden. 5th semester of Computer Science Bachelor
 
 😣 I am in my Stress Phase, so not much time to work on my ideas and plans
 
 🔭 I am currently planning to 
 - 🌱 Learn:
   - Spring
-  - React
   - Docker
 - 💻 Make:
-  - Time Managment Java Spring Web-Application with Telegram Bot Integration
-  - Continue developing my **[Minecraft Mod](https://github.com/xSpleet/Magpie)**
+  - Algorithm and Data Structure learning platfrom akin to LeetCode
+  - Continue developing my minecraft mods
 
 ⚡ Fun fact: My favourite movies are detective movies. I am an avid fan of Tatort and I am planning on making my own detective comic someday!
 
